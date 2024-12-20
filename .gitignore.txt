@@ -1,0 +1,4 @@
+ds_practice/x64/
+ds_practice/.vs/
+ds_practice/ds_practice/x64/
+
